@@ -1,7 +1,7 @@
 # ChromeDriver-Updater
 This application can be used to update or install the latest version of the Chrome Driver in a specified location of your windows PC. This application can download the chrome driver zip file, unzip the file and then move to a specified folder location in your windows PC. This application will run in Administration mode to access some of the location in your windows mostly your Program files folder or some C: drive locations. You can enter the destination folder path for chromedriver.exe file and temporary download location for the chrome driver zip file. Also you can use the same folder path location for the temporary download location by tick on the check box. In the Terminal box you can see all the status details such as existing version of the chrome driver, latest version of the chrome driver, downloading status, deleting temporary files and folder status, and file movement status. After filling the text fields by giving the folder path locations, you can click the "Check & Update Driver" button to update the chrome driver.
 
-You can use this application to simply update or install chrome driver to your Windows 64bit PC. 
+You can use this application to simply update or install chrome driver to your Windows 64bit PC. Note that this application needs internet connection to work properly.
 Most suitable for Selenium Web Scraping projects because it is tedious to download the latest version of chrome driver (64bit version) again and again.
 
 ![1](https://github.com/user-attachments/assets/66e0e84c-c5a6-4881-af0a-64d92469a0d8)
